@@ -1,4 +1,4 @@
-# Week 0: Introduction to AI Generative Creation
+# Introduction to AI Generative Creation
 
 **Date:** Pre-Bootcamp / Orientation Week  
 **Time:** 45–60 Minutes  
