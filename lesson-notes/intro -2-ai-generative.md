@@ -9,7 +9,6 @@
 
 ## Part 1: The Warm-Up & Hook (5 Minutes)
 
-*(You are in Vidline. Recording is ON. Students are entering.)*
 
 **Script:**
 
@@ -27,7 +26,6 @@
 
 ## Part 2: What is Generative AI? (10 Minutes)
 
-*(Screen share a slide or a simple document.)*
 
 **Script:**
 
@@ -53,7 +51,6 @@
 
 ## Part 3: Why This is a Golden Opportunity for Nigerians (10 Minutes)
 
-*(Keep screen sharing. Show a map or simple text list.)*
 
 **Script:**
 
@@ -81,8 +78,6 @@
 
 ## Part 4: The 8-Week Roadmap (10 Minutes)
 
-*(Show the full curriculum on screen.)*
-
 **Script:**
 
 > *"Let me show you exactly what you will achieve over the next 8 weeks.*
@@ -105,7 +100,6 @@
 
 ## Part 5: The Core Mindset – "AI Amplifies, It Doesn't Replace" (5 Minutes)
 
-*(Look directly at the camera. No slides.)*
 
 **Script:**
 
@@ -125,8 +119,6 @@
 ---
 
 ## Part 6: Q&A and Next Steps (10 Minutes)
-
-*(Open the floor for questions via chat.)*
 
 **Script:**
 
@@ -158,20 +150,7 @@ Post it in the WhatsApp group by Friday, 11:59 PM WAT.
 
 ## Post-Class Action (By 4:00 PM)
 
-1. **Stop Recording** in Vidline.
-2. **Upload the video** to YouTube (Unlisted) and Telegram.
-3. **Send this broadcast in WhatsApp:**
-   > *"Introduction session recording is now live. If you missed it or want to rewatch, the link is in the pinned message. Next week, we start with AI Image Generation!"*
-
----
-
-## 🎯 Learning Outcomes (Week 0)
-
-By the end of this introduction, you will:
-- ✅ Understand what Generative AI is and how it works.
-- ✅ Know the 8-week roadmap and what you will achieve.
-- ✅ Understand why AI is a golden opportunity for Nigerians.
-- ✅ Adopt the mindset: "AI amplifies, it doesn't replace."
+Next week, we start with AI Image Generation!"*
 
 ---
 
